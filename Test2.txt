@@ -1,3 +1,5 @@
 This is the second test.
 This is more updates.
 More updates.
+Branch 2 and 3 merge into branch 1.
+New changes
